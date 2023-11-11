@@ -18,8 +18,7 @@ Without further delay here is the first code snippet:
 msiexec /i sophos-connect.msi /qn
 ```
 
-#Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+Check out the [Schelertech Docs][schelertech.doc] for more info on how to utilize powershell and cmd. If you interested in help, you can book services here [Schelertech Services][schelertech-service].
 
-#[jekyll-docs]: https://jekyllrb.com/docs/home
-#[jekyll-gh]:   https://github.com/jekyll/jekyll
-#[jekyll-talk]: https://talk.jekyllrb.com/
+[schelertech-docs]: https://schelertech.com
+[schelertech-service]: https://schelertech.com/
