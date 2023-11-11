@@ -1,11 +1,12 @@
 ---
-title: "Welcome to Jekyll!"
+title: "Welcome to Schelertech!"
 date: 2023-11-11T14:01:30-04:00
 categories:
   - blog
 tags:
-  - Jekyll
-  - update
+  - schelertech
+  - welcome
+  - guides
 ---
 
 Welcome to the schelertech `_blog!` I will post things related to running a helpdesk for a medium sized corporation. Here is an example of a line of code for `silently installing` an application using tools like powershell and cmd which are very powerful tools.
