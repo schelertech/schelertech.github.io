@@ -14,11 +14,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Schelertech
-email:
+email: chris@schelertech.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+  Handy guides for resolving helpdesk tickets.
 twitter_username: username
 github_username: schelertech
 minimal_mistakes_skin: default
@@ -62,11 +60,11 @@ plugins:
 author:
   name   : "Chris Scheler"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome tech guide constrained to a sentence or two goes here."
+  bio    : "Tech guides for everyday helpdesk agents."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      url: "https://"
+      url: "https://schelertech.com"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/"
