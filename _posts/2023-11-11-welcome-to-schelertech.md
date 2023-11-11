@@ -18,8 +18,3 @@ Without further delay here is the first code snippet:
 ```ruby
 msiexec /i sophos-connect.msi /qn
 ```
-
-Check out the [Schelertech Docs][schelertech-docs] for more info on how to utilize powershell and cmd. If you interested in help, you can book services here [Schelertech Services][schelertech-service].
-
-[schelertech-docs]: https://schelertech.com/
-[schelertech-service]: https://schelertech.com/
