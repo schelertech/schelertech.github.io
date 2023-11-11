@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   line in _config.yml. It will appear in your document head meta (for
   Google search results) and in your feed.xml site description.
 twitter_username: username
-github_username: username
+github_username: schelertech
 minimal_mistakes_skin: default
 search: true
 
@@ -56,11 +56,12 @@ plugins:
   - jekyll-feed
   - jemoji
   - jekyll-include-cache
+  - jekyll-compose
 
 author:
-  name   : "First Lastname"
+  name   : "Chris Scheler"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "My awesome tech guide constrained to a sentence or two goes here."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
@@ -71,9 +72,9 @@ author:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://linkedin.com/"
 
 footer:
   links:
@@ -83,9 +84,9 @@ footer:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/"
-    - label: "Instagram"
+    - label: "LinkedIn"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://linkedin.com/"
 
 defaults:
   # _posts
