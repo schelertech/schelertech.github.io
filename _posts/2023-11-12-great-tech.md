@@ -2,7 +2,7 @@
 title: "Wisdom: Great Tech"
 categories:
   - Blog
-  -Reflection
+  - Reflection
 tags:
   - wisdom
   - quote
