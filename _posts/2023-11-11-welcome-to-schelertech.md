@@ -2,7 +2,7 @@
 title: "Welcome to Schelertech!"
 date: 2023-11-11T14:01:30-04:00
 categories:
-  - blog
+  - Blog
 tags:
   - schelertech
   - welcome
