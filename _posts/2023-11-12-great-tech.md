@@ -9,6 +9,6 @@ tags:
   - quote
 ---
 
- Only one thing is impossible for God: To find any sense in any copyright law on the planet.
+ A good tech gives the clinet what they want. A great tech gives the client what they really want.
   
  <cite><a href="http://thegreattao.com/html/introfounderlaotze.html"> Dr. Chang </a></cite>
