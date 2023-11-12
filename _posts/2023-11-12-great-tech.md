@@ -3,7 +3,7 @@ title: "Wisdom: Great Tech"
 date: 2023-11-11T20:01:30
 categories:
   - Blog
-  - Reflection
+  - Life
 tags:
   - wisdom
   - quote
