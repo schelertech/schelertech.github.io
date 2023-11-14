@@ -1,10 +1,10 @@
 ---
-title: My New Post
-date: '2023-11-14 22:02:34 +0000'
+title: "New Post"
+date: 2023-11-14 17:09:00
 categories:
   - Blog
+  - Technology
 tags:
-  - schelertech
   - guides
 ---
 Hello!
