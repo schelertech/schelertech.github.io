@@ -15,7 +15,6 @@ group :jekyll_plugins do
   gem "jekyll-include-cache"
   gem "jekyll-algolia"
   gem "minimal-mistakes-jekyll"
-  gem "jekyll-compose"
   gem "jekyll-seo-tag"
   gem "jekyll-admin"
 end
