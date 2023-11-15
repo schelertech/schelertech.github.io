@@ -58,6 +58,7 @@ plugins:
   - jekyll-compose
   - jekyll-seo-tag
   - jekyll-admin
+
 jekyll_admin:
   hidden_links:
     - posts
@@ -66,6 +67,21 @@ jekyll_admin:
     - datafiles
     - configuration
   homepage: "pages"
+
+jekyll_compose:
+  default_front_matter:
+    drafts:
+      title:
+      date:
+      category:
+      tags:
+    posts:
+      title:
+      date:
+      category:
+      tags:
+      published: false
+      sitemap: false
 
 collections:
   posts:
