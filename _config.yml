@@ -61,9 +61,6 @@ plugins:
 
 jekyll_admin:
   hidden_links:
-    - staticfiles
-    - datafiles
-    - configuration
   homepage: "posts"
 
 collections:
