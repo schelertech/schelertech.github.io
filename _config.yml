@@ -57,6 +57,7 @@ plugins:
   - jekyll-include-cache
   - jekyll-compose
   - jekyll-seo-tag
+  - jekyll-admin
 
 author:
   name   : "Chris Scheler"
