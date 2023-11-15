@@ -67,7 +67,12 @@ jekyll_admin:
     - datafiles
     - configuration
   homepage: "pages"
-  
+
+collections:
+  posts:
+    output: true
+    sidebar_label: News
+
 author:
   name   : "Chris Scheler"
   avatar : "/assets/images/bio-photo.jpg"
