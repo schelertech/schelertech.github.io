@@ -24,9 +24,8 @@ minimal_mistakes_skin: dark
 search: true
 
 # Build settings
-theme: minimal-mistakes-jekyll
 markdown: kramdown
-#remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/minimal-mistakes
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
