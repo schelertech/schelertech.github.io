@@ -59,6 +59,15 @@ plugins:
   - jekyll-seo-tag
   - jekyll-admin
 
+jekyll_admin:
+  hidden_links:
+    - posts
+    - pages
+    - staticfiles
+    - datafiles
+    - configuration
+  homepage: "pages"
+  
 author:
   name   : "Chris Scheler"
   avatar : "/assets/images/bio-photo.jpg"
