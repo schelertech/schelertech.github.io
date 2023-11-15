@@ -68,21 +68,6 @@ jekyll_admin:
     - configuration
   homepage: "pages"
 
-jekyll_compose:
-  default_front_matter:
-    drafts:
-      title:
-      date:
-      category:
-      tags:
-    posts:
-      title:
-      date:
-      category:
-      tags:
-      published: false
-      sitemap: false
-
 collections:
   posts:
     output: true
