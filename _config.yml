@@ -58,7 +58,6 @@ plugins:
   - jekyll-compose
   - jekyll-seo-tag
   - jekyll-admin
-
 jekyll_admin:
   hidden_links:
     - posts
