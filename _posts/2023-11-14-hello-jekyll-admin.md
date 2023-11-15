@@ -1,6 +1,6 @@
 ---
 title: "Hello Jekyll!"
-date: '2023-11-14 22:30:00'
+date: 2023-11-14 22:30:00
 categories:
 - Blog
 - Technology
