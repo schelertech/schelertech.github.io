@@ -1,5 +1,5 @@
 ---
-title: hello-jekyll-admin
+title: "hello-jekyll-admin"
 categories:
  - Blog
  - Technology
