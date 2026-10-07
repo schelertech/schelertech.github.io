@@ -3,7 +3,13 @@ permalink: /about/
 title: "About"
 ---
 
-Schelertech works toward building a culture of self-sufficiency and ease of use in the world enterprise resource planning software and hardware technology.
+Schelertech is Chris Scheler's IT support blog: concise notes from running helpdesk and operations work in real environments.
 
-The majority of issue in an organization can be resolved quickly and easily leaving more time for building and utilizing the tools they are at a great cost to have.
- 
+The focus is practical:
+
+- Ticket triage and request tracking
+- Endpoint and identity tooling
+- Automation that saves time without creating brittle process
+- Habits that make support work calmer and more repeatable
+
+The goal is simple: resolve the common stuff quickly, document what matters, and leave more room for the problems that actually need deep thinking.

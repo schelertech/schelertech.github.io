@@ -9,12 +9,12 @@ tags:
   - guides
 ---
 
-Welcome to the schelertech `_blog!` I will post things related to running a helpdesk for a medium sized corporation. Here is an example of a line of code for `silently installing` an application using tools like powershell and cmd which are very powerful tools.
+Welcome to the Schelertech blog. This is where I post notes on running a helpdesk for a medium-sized organization: tickets, tooling, automation, and the habits that keep support work moving.
 
-Stay tuned for more `_blog!` posts forevery helpdesk technician will love.
+Here is a simple example of a quiet application install with `msiexec`:
 
-Without further delay here is the first code snippet:
-
-```ruby
+```cmd
 msiexec /i sophos-connect.msi /qn
 ```
+
+More guides soon for technicians who want clean installs, clearer tickets, and fewer repeat requests.
