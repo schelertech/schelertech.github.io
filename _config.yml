@@ -1,53 +1,39 @@
-# Welcome to Jekyll!
-#
-# This config file is meant for settings that affect your whole blog, values
-# which you are expected to set up once and rarely edit after that. If you find
-# yourself editing this file very often, consider using Jekyll's data files
-# feature for the data you need to update frequently.
-#
-# For technical reasons, this file is *NOT* reloaded automatically when you use
-# 'bundle exec jekyll serve'. If you change this file, please restart the server process.
-
 # Site settings
-# These are used to personalize your new site. If you look in the HTML files,
-# you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
-# You can create any custom variable you would like, and they will be accessible
-# in the templates via {{ site.myvariable }}.
 title: Schelertech
 subtitle: IT Support Blog
 email: chris@schelertech.com
-description: >- # this means to ignore newlines until "baseurl:"
-  Handy guides for resolving helpdesk tickets and becoming a great IT support technician.
+description: >-
+  Practical guides for helpdesk work, endpoint management, and everyday IT support.
+url: "https://blog.schelertech.com"
+baseurl: ""
+repository: "schelertech/schelertech.github.io"
 twitter_username: schelertech
 github_username: schelertech
 minimal_mistakes_skin: dark
 search: true
+logo: "/assets/images/bio-photo.jpg"
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
-# Outputting
+remote_theme: mmistakes/minimal-mistakes@4.26.2
 permalink: /:categories/:title/
-paginate: 5 # amount of posts to show
+paginate: 5
 paginate_path: /page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York
 
 include:
   - _pages
 
-# Exclude from processing.
-# The following items will not be processed, by default. Create a custom list
-# to override the default setting.
-# exclude:
-#   - Gemfile
-#   - Gemfile.lock
-#   - node_modules
-#   - vendor/bundle/
-#   - vendor/cache/
-#   - vendor/gems/
-#   - vendor/ruby/
+exclude:
+  - Gemfile
+  - Gemfile.lock
+  - node_modules
+  - vendor/bundle/
+  - vendor/cache/
+  - vendor/gems/
+  - vendor/ruby/
+  - README.md
 
-# Plugins (previously gems:)
 plugins:
   - jekyll-paginate
   - jekyll-sitemap
@@ -56,44 +42,32 @@ plugins:
   - jemoji
   - jekyll-include-cache
   - jekyll-seo-tag
-  - jekyll-admin
-  - jekyll-compose
-
-jekyll_admin:
-  hidden_links:
-  homepage: "posts"
-
-collections:
-  posts:
-    output: true
-    sidebar_label: News
 
 author:
-  name   : "Chris Scheler"
-  avatar : "/assets/images/bio-photo.jpg"
-  bio    : "Tech guides for everyday helpdesk agents."
+  name: "Chris Scheler"
+  avatar: "/assets/images/bio-photo.jpg"
+  bio: "Ops-minded IT support notes for helpdesk techs and the systems they keep running."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://schelertech.com"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/schelertech"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/schelertech"
-    
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/schelertech"
+
 footer:
   links:
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/schelertech"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/schelertech"
-    
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/schelertech"
+
 defaults:
-  # _posts
   - scope:
       path: ""
       type: posts
@@ -101,10 +75,9 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      comments: false
       share: true
       related: true
-  # _pages
   - scope:
       path: "_pages"
       type: pages

@@ -1,6 +1,6 @@
 ---
 title: "Automation"
-date: 2023-11-12 21:23:05
+date: 2023-11-12 21:23:05 -0400
 categories:
   - Blog
   - Technology
@@ -8,4 +8,8 @@ tags:
   - automation
 ---
 
-Automation is the most significant type of tool used to run a helpdesk and maintain of all kinds of systems. Microsoft has some of the most easy to use automation tools in the form of their products Entra, Endpoint Manager and of course Azure. Remember to always do research on ways to fully utilize automation withing your working environment. There are a wealth of forums online as well as consultants for hire. Make the most of what you have. That is all.
+Automation is one of the highest-leverage tools for running a helpdesk and maintaining systems at scale. Microsoft makes a lot of that work approachable through Entra ID, Endpoint Manager, and Azure.
+
+The useful habit is not automating everything. It is researching the repeatable work in your environment, then choosing the smallest reliable automation that removes toil without creating a process nobody can debug.
+
+There are plenty of forums, docs, and consultants if you get stuck. Make the most of what you already own.
